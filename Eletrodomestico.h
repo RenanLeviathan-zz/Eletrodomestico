@@ -1,0 +1,6 @@
+#ifndef ELETRODOMESTICO_H_INCLUDED
+#define ELETRODOMESTICO_H_INCLUDED
+class Eletrodomestico{
+
+};
+#endif // ELETRODOMESTICO_H_INCLUDED
